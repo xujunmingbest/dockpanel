@@ -1,0 +1,12 @@
+E:\c++\dockpanel应用\dockpanel应用\bin\Debug\dockpanel应用.exe.config
+E:\c++\dockpanel应用\dockpanel应用\obj\Debug\dockpanel应用.csprojResolveAssemblyReference.cache
+E:\c++\dockpanel应用\dockpanel应用\obj\Debug\dockpanel应用.Form1.resources
+E:\c++\dockpanel应用\dockpanel应用\obj\Debug\dockpanel应用.Properties.Resources.resources
+E:\c++\dockpanel应用\dockpanel应用\obj\Debug\dockpanel应用.csproj.GenerateResource.Cache
+E:\c++\dockpanel应用\dockpanel应用\bin\Debug\dockpanel应用.exe
+E:\c++\dockpanel应用\dockpanel应用\bin\Debug\dockpanel应用.pdb
+E:\c++\dockpanel应用\dockpanel应用\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+E:\c++\dockpanel应用\dockpanel应用\obj\Debug\dockpanel应用.exe
+E:\c++\dockpanel应用\dockpanel应用\obj\Debug\dockpanel应用.pdb
+E:\c++\dockpanel应用\dockpanel应用\obj\Debug\dockpanel应用.DockPanelFormMain.resources
+E:\c++\dockpanel应用\dockpanel应用\obj\Debug\dockpanel应用.DockPanelFormSide.resources
